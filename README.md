@@ -13,6 +13,6 @@ The following packages are required to use the scripts:
 - `git`
 - `sway`
 - `fzf`
+- `stow`
 
-Should work both with `bash` and `zsh`. Just source the aliases and add the folder to the PATH to have everything executable.
-Remember to give permissions to the scripts.
+Should work both with `bash` and `zsh`. Remember to give permissions to the scripts, if required.
